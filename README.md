@@ -1,4 +1,4 @@
-# 🔐 Login Page – Vite + React + TypeScript
+# Assignment Login Page – Vite + React + TypeScript
 
 This is a simple and elegant login page created using **React**, **TypeScript**, **Tailwind CSS**, and **Vite**. It is designed to replicate a provided Figma design closely, with emphasis on responsive layout and modern styling.
 
@@ -10,10 +10,10 @@ This is a simple and elegant login page created using **React**, **TypeScript**,
 
 ## 🚀 Tech Stack
 
-- ⚛️ React  
-- ✨ TypeScript  
-- ⚡ Vite  
-- 🎨 Tailwind CSS
+-  React  
+-  TypeScript  
+-  Vite  
+-  Tailwind CSS
 
 ---
 
