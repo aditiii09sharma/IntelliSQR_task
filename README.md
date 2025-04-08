@@ -4,10 +4,6 @@ This is a simple and elegant login page created using **React**, **TypeScript**,
 
 ---
 
-## 📸 Preview
-
-![Login Page Screenshot](https://imgur.com/a/VoyJFcJ) <!-- Replace this with actual screenshot link -->
-
 > UI preview hosted locally using `Vite` at `localhost:5174`.
 
 ---
