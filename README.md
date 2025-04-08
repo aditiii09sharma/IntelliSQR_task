@@ -4,7 +4,7 @@ This project is a fully responsive and pixel-perfect login page built using **Re
 
 ## 📸 Preview
 
-![Login Screenshot](./screenshots/login-preview.png) <!-- Optional image preview if you add one -->
+![Login Screenshot](https://imgur.com/a/VoyJFcJ) <!-- Optional image preview if you add one -->
 
 ## 🚀 Features
 
