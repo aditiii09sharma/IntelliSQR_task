@@ -28,22 +28,6 @@ This is a simple and elegant login page created using **React**, **TypeScript**,
 
 ---
 
-## 📁 Project Structure
-
-bash -
-my-login-app/
-├── public/
-├── src/
-│   ├── components/
-│   │   └── LoginForm.tsx
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-├── index.html
-├── package.json
-├── tsconfig.json
-├── tailwind.config.js
-└── vite.config.ts
 Follow these instructions to get the project up and running on your local machine:
 
 bash -
